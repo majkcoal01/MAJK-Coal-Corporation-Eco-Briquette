@@ -55,7 +55,8 @@ An environmentally driven enterprise focused on producing sustainable, high-effi
 </head>
 <body>
 
-<header>
+<<header>
+  <img src="logo.png" alt="MAJK Logo" style="width:120px; margin-bottom:10px; background:white; padding:8px; border-radius:12px;">
   <h1>MAJK Eco-Briquettes</h1>
   <p>Burn Smart. Save More.</p>
 </header>
