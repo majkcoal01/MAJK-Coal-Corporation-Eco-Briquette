@@ -1,6 +1,6 @@
 <section>
   <div class="box">
-    <p style="text-align:center; font-size:16px;">
+    <p style="text-align:center; font-size:16px;"
       An environmentally driven enterprise focused on producing sustainable, high-efficiency briquettes made from organic and biodegradable waste materials such as coconut shells, rice husks, sawdust, and agricultural residues.
     </p>
   </div>
@@ -96,7 +96,7 @@
     </a>
   </p>
 
-  <a href="https://facebook.com/YOURPAGE" class="btn" target="_blank">
+  <a href="https://www.facebook.com/kenneth.busante2003" class="btn" target="_blank">
     Message Us on Facebook
   </a>
 </div>
