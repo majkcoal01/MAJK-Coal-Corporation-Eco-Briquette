@@ -48,9 +48,6 @@
     <h2 class="text-3xl font-bold mb-4">From Waste to Worth</h2>
     <p class="mb-6">Start saving today with Eco-Briquettes.</p>
     <div class="space-x-4">
-      <a href="#contact" class="bg-white text-green-700 px-6 py-3 rounded-2xl font-semibold">Message Us</a>
-      <a href="#contact" class="bg-transparent border border-white px-6 py-3 rounded-2xl font-semibold">Bulk Orders</a>
-    </div>
   </section>
 
   <!-- Contact Info -->
