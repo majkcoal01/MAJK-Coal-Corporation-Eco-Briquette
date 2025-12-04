@@ -63,7 +63,6 @@ style="background: url('bg.jpg') no-repeat center center fixed; background-size:
   <footer class="bg-green-800 text-white py-6 text-center">
     <p>© 2025 Eco-Briquettes | Cook Better. Live Greener.</p>
   </footer>
-</body>
-</html>
+
 
     
