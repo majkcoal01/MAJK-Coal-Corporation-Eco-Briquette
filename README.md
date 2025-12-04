@@ -142,16 +142,19 @@
     </div>
   </section>
 
-  <!-- ✅ CONTACT SECTION WITH PHONE & FACEBOOK -->
   <section class="contact">
-    <h2>Contact Us</h2>
+  <h2>Contact Us</h2>
 
-    <!-- ✅ PHONE BUTTON -->
-    <a href="tel:09271131690" class="btn">📞 Call Us</a>
+  <p><strong>Phone:</strong> 09123456789</p>
 
-    <!-- ✅ FACEBOOK BUTTON -->
-    <a href="https://www.facebook.com/profile.php?id=61584451961185" class="btn" target="_blank">📘 Visit Our Facebook</a>
-  </section>
+  <p>
+    <strong>Facebook:</strong>
+    <a href="https://facebook.com/yourpage" target="_blank">
+      MAJK Eco-Briquettes
+    </a>
+  </p>
+</section>
+
 
   <!-- ✅ FOOTER -->
   <footer>
