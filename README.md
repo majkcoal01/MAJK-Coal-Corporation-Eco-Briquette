@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -148,10 +148,10 @@
     <h2>Contact Us</h2>
 
     <!-- ✅ PHONE BUTTON -->
-    <a href="tel:09123456789" class="btn">📞 Call Us</a>
+    <a href="tel:09271131690" class="btn">📞 Call Us</a>
 
     <!-- ✅ FACEBOOK BUTTON -->
-    <a href="https://facebook.com/yourpage" class="btn" target="_blank">📘 Visit Our Facebook</a>
+    <a href="https://www.facebook.com/kenneth.busante2003" class="btn" target="_blank">📘 Visit Our Facebook</a>
   </section>
 
   <!-- ✅ FOOTER -->
