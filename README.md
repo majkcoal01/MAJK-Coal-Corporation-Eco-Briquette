@@ -6,12 +6,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background: #e8f5e9;
-      color: #2e2e2e;
-    }
+   body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: url("bg.jpg") no-repeat center center fixed;
+  background-size: cover;
+  color: #2e2e2e;
+}
 
     header {
       background: #2e7d32;
