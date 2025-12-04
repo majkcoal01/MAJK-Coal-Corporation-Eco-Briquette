@@ -134,7 +134,6 @@
       </div>
     </div>
   </section>
-
   <!-- ✅ TARGET MARKET -->
   <section>
     <div class="box">
@@ -151,7 +150,7 @@
     <a href="tel:09271131690" class="btn">📞 Call Us</a>
 
     <!-- ✅ FACEBOOK BUTTON -->
-    <a href="https://www.facebook.com/kenneth.busante2003" class="btn" target="_blank">📘 Visit Our Facebook</a>
+    <a href="https://www.facebook.com/profile.php?id=61584451961185" class="btn" target="_blank">📘 Visit Our Facebook</a>
   </section>
 
   <!-- ✅ FOOTER -->
