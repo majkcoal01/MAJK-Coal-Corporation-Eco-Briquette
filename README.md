@@ -1,11 +1,6 @@
 <html lang="en">
 <head>
- <div class="flex items-center justify-center gap-4 mb-4">
-  <img src="logo.png" alt="MAJK Logo" class="h-14 w-14 rounded-full bg-white p-1">
-  <h1 class="text-4xl font-bold">
-    MAJK Coal Corporation (Eco-Briquettes)
-  </h1>
-</div>
+ <meta charset="UTF-8" /> <meta name="viewport" content="width=device-width, initial-scale=1.0" /> <title>MAJK Coal Corporation | Burn Smart. Save More.</title> <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="text-gray-800"
 style="background: url('bg.jpg') no-repeat center center fixed; background-size: cover;">
