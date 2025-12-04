@@ -1,7 +1,6 @@
 <section>
   <div class="box">
       An environmentally driven enterprise focused on producing sustainable, high-efficiency briquettes made from organic and biodegradable waste materials such as coconut shells, rice husks, sawdust, and agricultural residues.
-  </div>
 </section>
 <head>
   <meta charset="UTF-8">
@@ -82,7 +81,7 @@
   <p><b>📞 Phone:</b> 0927-113-1690</p>
   <p><b>📘 Facebook:</b> 
       MAJK Eco-Briquettes
-    </a>
+   
   </p>
 
   <a href="https://www.facebook.com/kenneth.busante2003" class="btn" target="_blank">
