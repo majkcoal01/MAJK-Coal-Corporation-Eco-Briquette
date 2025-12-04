@@ -86,7 +86,7 @@ An environmentally driven enterprise focused on producing sustainable, high-effi
   <h2>Order Now</h2>
   <p>Message or call us today and start saving with eco-friendly fuel.</p>
 
-  <p><b>📞 Phone:</b> 09XX-XXX-XXXX</p>
+  <p><b>📞 Phone:</b> 0927-113-1690</p>
   <p><b>📘 Facebook:</b> 
     <a href="https://facebook.com/YOURPAGE" target="_blank">
       MAJK Eco-Briquettes
