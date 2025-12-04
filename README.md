@@ -68,15 +68,7 @@
     <p>We turn organic waste into affordable and clean fuel for households and small food businesses.</p>
   </div>
 
-  <div class="box">
-    <h2>Why Choose Us</h2>
-    <ul>
-      <li>Lower cost than charcoal</li>
-      <li>Longer burning time</li>
-      <li>Less smoke, cleaner cooking</li>
-      <li>Environmentally sustainable</li>
-    </ul>
-  </div>
+  
 
   <div class="box">
     <h2>Target Market</h2>
@@ -89,7 +81,6 @@
 
   <p><b>📞 Phone:</b> 0927-113-1690</p>
   <p><b>📘 Facebook:</b> 
-    <a href="https://facebook.com/YOURPAGE" target="_blank">
       MAJK Eco-Briquettes
     </a>
   </p>
