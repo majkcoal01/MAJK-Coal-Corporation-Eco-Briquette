@@ -82,11 +82,21 @@ An environmentally driven enterprise focused on producing sustainable, high-effi
     <p>Households, carinderias, BBQ stalls, and small food businesses.</p>
   </div>
 
-  <div class="box">
-    <h2>Order Now</h2>
-    <p>Message us today and start saving with eco-friendly fuel.</p>
-    <a href="#" class="btn">Contact Us: 09271131690</a>
-  </div>
+ <div class="box">
+  <h2>Order Now</h2>
+  <p>Message or call us today and start saving with eco-friendly fuel.</p>
+
+  <p><b>📞 Phone:</b> 09XX-XXX-XXXX</p>
+  <p><b>📘 Facebook:</b> 
+    <a href="https://facebook.com/YOURPAGE" target="_blank">
+      MAJK Eco-Briquettes
+    </a>
+  </p>
+
+  <a href="https://facebook.com/YOURPAGE" class="btn" target="_blank">
+    Message Us on Facebook
+  </a>
+</div>
 </section>
 
 <footer>
