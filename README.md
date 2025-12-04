@@ -49,13 +49,13 @@
       flex-wrap: wrap;
     }
 
-    .box {
-      flex: 1;
-      background: white;
-      padding: 20px;
-      border-radius: 12px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-    }
+   .box {
+  background: rgba(255, 255, 255, 0.92);
+  padding: 20px;
+  margin: 15px 0;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
 
     h2 {
       color: #2e7d32;
