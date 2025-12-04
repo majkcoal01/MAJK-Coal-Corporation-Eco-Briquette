@@ -145,16 +145,15 @@
   <section class="contact">
   <h2>Contact Us</h2>
 
-  <p><strong>Phone:</strong> 09123456789</p>
+  <p><strong>Phone:</strong> 09271131690</p>
 
   <p>
     <strong>Facebook:</strong>
-    <a href="https://facebook.com/yourpage" target="_blank">
+    <a href="https://www.facebook.com/profile.php?id=61584451961185" target="_blank">
       MAJK Eco-Briquettes
     </a>
   </p>
 </section>
-
 
   <!-- ✅ FOOTER -->
   <footer>
