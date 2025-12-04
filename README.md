@@ -18,7 +18,7 @@ style="background: url('bg.jpg') no-repeat center center fixed; background-size:
   </section>
 
   <!-- Value Proposition -->
-  <section class="py-12 px-6 max-w-5xl mx-auto">
+  <section class="bg-white/90 py-12 px-6">
     <h2 class="text-3xl font-bold text-center mb-8">Why Choose Eco-Briquettes?</h2>
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
       <div class="bg-white p-6 rounded-2xl shadow">
