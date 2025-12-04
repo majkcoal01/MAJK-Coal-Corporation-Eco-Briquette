@@ -1,4 +1,3 @@
-# MAJK Coal Corporation
 <section>
   <div class="box">
     <p style="text-align:center; font-size:16px;">
@@ -6,8 +5,6 @@
     </p>
   </div>
 </section>
-
-<html lang="en"
 <head>
   <meta charset="UTF-8">
   <title>MAJK Eco-Briquettes</title>
