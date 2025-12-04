@@ -1,165 +1,71 @@
-
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>MAJK Eco-Briquettes</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <style>
-   body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-  background: url("bg.jpg") no-repeat center center fixed;
-  background-size: cover;
-  color: #2e2e2e;
-}
-
-    header {
-      background: #2e7d32;
-      color: white;
-      padding: 20px 10px;
-      text-align: center;
-    }
-
-    .logo {
-      width: 90px;
-      margin-bottom: 5px;
-    }
-
-    header h1 {
-      margin: 5px 0;
-      font-size: 32px;
-    }
-
-    header p {
-      margin: 0;
-      font-size: 16px;
-      font-style: italic;
-    }
-
-    section {
-      padding: 30px 20px;
-      max-width: 1000px;
-      margin: auto;
-    }
-
-    .row {
-      display: flex;
-      gap: 20px;
-      flex-wrap: wrap;
-    }
-
-   .box {
-  background: rgba(255, 255, 255, 0.92);
-  padding: 20px;
-  margin: 15px 0;
-  border-radius: 10px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
-}
-    h2 {
-      color: #2e7d32;
-    }
-
-    ul {
-      padding-left: 20px;
-    }
-
-    .contact {
-      text-align: center;
-      margin-top: 30px;
-    }
-
-    .btn {
-      display: inline-block;
-      background: #2e7d32;
-      color: white;
-      padding: 12px 25px;
-      border-radius: 25px;
-      text-decoration: none;
-      font-weight: bold;
-      margin: 5px;
-    }
-
-    .btn:hover {
-      background: #1b5e20;
-    }
-
-    footer {
-      background: #1b5e20;
-      color: white;
-      text-align: center;
-      padding: 15px;
-      margin-top: 40px;
-    }
-  </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MAJK Coal Corporation (Eco-Briquettes) | Burn Smart. Save More.</title>
+  <script src="https://cdn.tailwindcss.com"></script>
 </head>
-
-<body>
-
-  <!-- ✅ HEADER WITH LOGO -->
-  <header>
-    <img src="logo.png" class="logo">
-    <h1>MAJK Eco-Briquettes</h1>
-    <p>Burn Smart. Save More.</p>
-  </header>
-
-  <!-- ✅ DESCRIPTION -->
-  <section>
-    <div class="box" style="text-align:center;">
-      <p>
-        An environmentally driven enterprise focused on producing sustainable, high-efficiency briquettes made from 
-        organic and biodegradable waste materials such as coconut shells, rice husks, sawdust, and agricultural residues.
-      </p>
-    </div>
+<body class="bg-green-50 text-gray-800">
+  <!-- Hero Section -->
+  <section class="bg-green-700 text-white py-16 px-6 text-center">
+    <h1 class="text-4xl font-bold mb-4">MAJK Coal Corporation (Eco-Briquettes)</h1>
+    <p class="text-xl mb-4">Burn Smart. Save More. Cook Cleaner.</p>
+    <p class="max-w-2xl mx-auto mb-6">
+      Affordable, eco-friendly fuel made from coconut shells, rice husks, sawdust, and agricultural waste.
+    </p>
+    <a href="#order" class="bg-white text-green-700 px-6 py-3 rounded-2xl font-semibold shadow-lg">Order Now</a>
   </section>
 
-  <!-- ✅ WHAT WE DO & WHY CHOOSE US SIDE BY SIDE -->
-  <section>
-    <div class="row">
-      <div class="box">
-        <h2>What We Do</h2>
-        <p>
-          We turn organic waste into affordable and clean fuel for households and small food businesses.
-        </p>
+  <!-- Value Proposition -->
+  <section class="py-12 px-6 max-w-5xl mx-auto">
+    <h2 class="text-3xl font-bold text-center mb-8">Why Choose Eco-Briquettes?</h2>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <div class="bg-white p-6 rounded-2xl shadow">
+        <h3 class="font-bold mb-2">Save Money</h3>
+        <p>Costs less than regular charcoal and burns longer.</p>
       </div>
-
-      <div class="box">
-        <h2>Why Choose Us</h2>
-        <ul>
-          <li>Lower cost than charcoal</li>
-          <li>Longer burning time</li>
-          <li>Less smoke, cleaner cooking</li>
-          <li>Environmentally sustainable</li>
-        </ul>
+      <div class="bg-white p-6 rounded-2xl shadow">
+        <h3 class="font-bold mb-2">Cleaner Cooking</h3>
+        <p>Less smoke and healthier for families and food vendors.</p>
+      </div>
+      <div class="bg-white p-6 rounded-2xl shadow">
+        <h3 class="font-bold mb-2">Eco-Friendly</h3>
+        <p>Turns organic waste into sustainable cooking fuel.</p>
       </div>
     </div>
   </section>
-  <!-- ✅ TARGET MARKET -->
-  <section>
-    <div class="box">
-      <h2>Target Market</h2>
-      <p>Households, carinderias, BBQ stalls, and small food businesses.</p>
+
+  <!-- Target Users -->
+  <section class="bg-white py-12 px-6">
+    <h2 class="text-3xl font-bold text-center mb-6">Perfect For</h2>
+    <p class="text-center max-w-3xl mx-auto">
+      Households, BBQ stalls, carinderias, bakeries, and small food businesses looking for affordable and sustainable fuel.
+    </p>
+  </section>
+
+  <!-- Call to Action -->
+  <section id="order" class="bg-green-700 text-white py-16 px-6 text-center">
+    <h2 class="text-3xl font-bold mb-4">From Waste to Worth</h2>
+    <p class="mb-6">Start saving today with Eco-Briquettes.</p>
+    <div class="space-x-4">
+      <a href="#contact" class="bg-white text-green-700 px-6 py-3 rounded-2xl font-semibold">Message Us</a>
+      <a href="#contact" class="bg-transparent border border-white px-6 py-3 rounded-2xl font-semibold">Bulk Orders</a>
     </div>
   </section>
 
-  <section class="contact">
-  <h2>Contact Us</h2>
+  <!-- Contact Info -->
+  <section id="contact" class="py-12 px-6 max-w-4xl mx-auto text-center">
+    <h2 class="text-3xl font-bold mb-6">Contact Us</h2>
+    <p>Facebook & Messenger: MAJK Coal Corporation</p>
+    <p>Phone/SMS: 0992-401-1587</p>
+    <p>Location: Philippines</p>
+  </section>
 
-  <p><strong>Phone:</strong> 09271131690</p>
-
-  <p>
-    <strong>Facebook:</strong>
-    <a href="https://www.facebook.com/profile.php?id=61584451961185" target="_blank">
-      MAJK Eco-Briquettes
-    </a>
-  </p>
-</section>
-
-  <!-- ✅ FOOTER -->
-  <footer>
-    <p>© 2025 MAJK Eco-Briquettes — From Waste to Worth</p>
+  <!-- Footer -->
+  <footer class="bg-green-800 text-white py-6 text-center">
+    <p>© 2025 Eco-Briquettes | Cook Better. Live Greener.</p>
   </footer>
-
 </body>
 </html>
 
+    
