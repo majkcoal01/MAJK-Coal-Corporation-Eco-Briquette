@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>MAJK Coal Corporation (Eco-Briquettes) | Burn Smart. Save More.</title>
+  <title>MAJK Coal Corporation | Burn Smart. Save More.</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-green-50 text-gray-800">
