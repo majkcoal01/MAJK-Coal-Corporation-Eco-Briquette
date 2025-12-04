@@ -51,7 +51,7 @@ style="background: url('bg.jpg') no-repeat center center fixed; background-size:
   <section id="contact" class="py-12 px-6 max-w-4xl mx-auto text-center">
     <h2 class="text-3xl font-bold mb-6">Contact Us</h2>
     <p>Facebook & Messenger: MAJK Coal Corporation</p>
-    <p>Phone/SMS: 0992-401-1587</p>
+    <p>Phone/SMS: 09271131690</p>
     <p>Location: Philippines</p>
   </section>
 
