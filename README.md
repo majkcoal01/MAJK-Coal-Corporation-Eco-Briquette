@@ -52,7 +52,7 @@ style="background: url('bg.jpg') no-repeat center center fixed; background-size:
     <h2 class="text-3xl font-bold mb-6">Contact Us</h2>
     <p>Facebook & Messenger: MAJK Coal Corporation</p>
     <p>Phone/SMS: 09271131690</p>
-    <p>Location: Philippines</p>
+    <p>Location: Tacloban City Leyte, Philippines</p>
   </section>
 
   <!-- Footer -->
