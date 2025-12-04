@@ -5,7 +5,8 @@
   <title>MAJK Coal Corporation | Burn Smart. Save More.</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-green-50 text-gray-800">
+<body class="text-gray-800"
+style="background: url('bg.jpg') no-repeat center center fixed; background-size: cover;"
   <!-- Hero Section -->
   <section class="bg-green-700 text-white py-16 px-6 text-center">
     <h1 class="text-4xl font-bold mb-4">MAJK Coal Corporation (Eco-Briquettes)</h1>
@@ -48,7 +49,7 @@
     <h2 class="text-3xl font-bold mb-4">From Waste to Worth</h2>
     <p class="mb-6">Start saving today with Eco-Briquettes.</p>
     <div class="space-x-4">
-  </section>
+  
 
   <!-- Contact Info -->
   <section id="contact" class="py-12 px-6 max-w-4xl mx-auto text-center">
